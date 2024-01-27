@@ -6,7 +6,7 @@
 /*   By: luhumber <luhumber@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/10/31 16:17:29 by luhumber          #+#    #+#             */
-/*   Updated: 2023/10/31 16:17:31 by luhumber         ###   ########.fr       */
+/*   Updated: 2024/01/27 20:14:38 by luhumber         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,7 +61,7 @@ int	map_size(t_game *game)
 int	convert_value(int *tab)
 {
 	int	i;
-	int	res;
+	int	res = 0;
 
 	i = 0;
 	while (i < 3)

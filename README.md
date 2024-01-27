@@ -7,7 +7,9 @@ cub3D is a project at 42 School that involves creating a simple raycasting engin
 - Raycasting engine for rendering 3D environments.
 - Textured walls and sprites.
 - Basic player movement controls.
+- Mouse vision controls
 - Customizable maps.
+- Minimap
 - Basic error handling.
 
 ## Controls
@@ -18,6 +20,12 @@ cub3D is a project at 42 School that involves creating a simple raycasting engin
 | `S`                | Move backward            |
 | `A`                | Strafe left              |
 | `D`                | Strafe right             |
+| `M`                | Minimap                  |
 | Left Arrow         | Rotate left              |
 | Right Arrow        | Rotate right             |
-| `ESC`              | Exit the game            |
+| Left Click         | Activate Mouse           |
+| Right Click        | Desactivate Mouse        |
+| `ESC` or close     | Exit the game            |
+
+
+![Texte alternatif](https://github.com/luhumber/Images/blob/main/cub3d/cub3dScreen.png)
